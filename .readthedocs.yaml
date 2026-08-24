@@ -5,10 +5,6 @@ build:
   tools:
     python: "3.11"
 
-sphinx:
-  configuration: docs/conf.py
-
-# Agar aap MkDocs use kar rahe hain toh niche wala block use karein:
 mkdocs:
   configuration: mkdocs.yml
 
