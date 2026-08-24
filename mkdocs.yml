@@ -1,0 +1,11 @@
+site_name: Sweetheart Design Hub
+site_url: https://sweetheartdesignhub.readthedocs.io/
+site_description: A creative design hub and digital portfolio.
+
+theme:
+  name: mkdocs
+  # Agar aap Material theme use karna chahein toh 'material' likh sakte hain (requirements.txt mein add karna hoga)
+
+nav:
+  - Home: index.md
+  - About Us: about.md
